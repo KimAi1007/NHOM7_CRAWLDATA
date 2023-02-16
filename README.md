@@ -1,5 +1,5 @@
 # NHOM7
-#topic:Website tin tức khí hậu
+#topic:Trình thu dữ liệu từ web bán hàng bất kì
 #ngôn ngữ: Java
 Khái niệm về crawl data:
 - Crawl là cào dữ liệu (Crawl Data) là một thuật ngữ không còn mới trong Marketing, và SEO. Vì Crawl là kỹ thuật mà các con robots của các công cụ tìm kiếm sử dụng như: Google, Bing Yahoo…
